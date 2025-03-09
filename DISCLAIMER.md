@@ -1,4 +1,4 @@
-# ElementalOS Disclaimer  
+# Project Disclaimer  
 
 ## 1. Non-Affiliation Statement  
 
