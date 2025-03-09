@@ -37,8 +37,7 @@ We’re a small team of developers obsessed with **efficiency**, **elegance**, a
 ---
 
 ## ⚠️ Disclaimer (Yes, Again)  
-**We are NOT affiliated with HoYoverse, Genshin Impact, or its universe.**  
-While we borrow naming inspiration from Fontaine (and Teyvat’s aesthetics), this is strictly a fan-driven, non-commercial effort.  
+**We are NOT affiliated with HoYoverse, Genshin Impact, or any of its related properties.** FontaineRSG is an independent, **non-profit**, **open-source** project with **absolutely NO** connection to HoYoverse. While we take naming inspiration from Fontaine and certain thematic elements from Teyvat’s aesthetics, our work is **entirely** original and does **not** use any copyrighted materials, trademarks, or assets from Genshin Impact. This is a **fan-driven**, **non-commercial** initiative. Any references to names or themes from Genshin Impact are **purely for artistic and conceptual inspiration.** **All rights** to Genshin Impact and its intellectual property **belong** to HoYoverse.
 
 ---
 
