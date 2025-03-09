@@ -9,7 +9,7 @@ All rights to Genshin Impact, its world, and related intellectual property belon
 
 ## 2. Trademark & Copyright Notice  
 
-*"Genshin Impact," "Fontaine," and other names referenced in this project are properties of HoYoverse.*  
+*"Fontaine" and other names referenced in this project are properties of HoYoverse.*  
 We **do not** claim any ownership over these names or any related intellectual property.  
 This project is **not** an official HoYoverse product and should not be mistaken for one.  
 
