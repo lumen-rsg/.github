@@ -64,4 +64,3 @@ Spotted a typo? Confusing instructions? Docs are code too!
 By contributing, you agree to license your work under the **GPL-3.0 License**.
 
 ----------
-**Fontaine Research Group** - please don't tell Furina about the judgement!
