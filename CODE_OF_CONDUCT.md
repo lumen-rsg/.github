@@ -48,6 +48,3 @@ Violations will be addressed by project maintainers. Actions may include:
 ## 🌱 Attribution  
 This Code of Conduct adapts the [Contributor Covenant 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
 
----
-
-**Fontaine Research Group** — *Fluid code, firm respect.*  
