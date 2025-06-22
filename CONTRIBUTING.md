@@ -1,12 +1,12 @@
-# 🌊 How to Contribute to Fontaine Research Group 
+# 🌊 How to Contribute to Lumen
 *Join us in building software that "just works" — and maybe cure boredom along the way.*  
 
 ---
 
 ## 🎯 First Time? No Problem! 
 Whether you’re here to code, document, or brainstorm:  
-1. **Read the [Code of Conduct](https://github.com/FontaineRSG/.github/blob/main/CODE_OF_CONDUCT.md)**. Don’t be a Ruin Guard.  
-2. **Check [GitHub Issues](https://github.com/FontaineRSG/elementOS/issues)** for tasks labeled `good first issue` or `help wanted`.  
+1. **Read the [Code of Conduct](https://github.com/lumen-rsg/.github/blob/main/CODE_OF_CONDUCT.md)**. 
+2. **Check [GitHub Issues](https://github.com/FontaineRSG/lumina/issues)** for tasks labeled `good first issue` or `help wanted`.  
 3. **Ask questions** in [Discussions]()(will create a space for it later).  
 
 ---
@@ -21,7 +21,7 @@ Whether you’re here to code, document, or brainstorm:
    - Screenshots/logs if possible.  
 
 ### 💡 Suggesting Features 
-1. **Check the [Roadmap](https://github.com/FontaineRSG/.github/blob/main/ROADMAP.md)** .  
+1. **Check the [Roadmap](https://github.com/lumen-rsg/.github/blob/main/ROADMAP.md)** .  
 2. **Open an Issue** with:  
    - The `enhancement` label.  
    - A clear "Why?" (e.g., *"Let users customize the dock because defaults are boring"*).  
@@ -54,7 +54,7 @@ Spotted a typo? Confusing instructions? Docs are code too!
 
 -   **Ask in Discussions**: No shame in not knowing.
     
--   **Tag maintainers**: `@FontaineRSG/core` in issues/PRs.
+-   **Tag maintainers**: `@lumen-rsg/core` in issues/PRs.
     
 
 ----------
@@ -62,5 +62,3 @@ Spotted a typo? Confusing instructions? Docs are code too!
 ## 📜 Licensing
 
 By contributing, you agree to license your work under the **GPL-3.0 License**.
-
-----------
