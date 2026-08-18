@@ -1,50 +1,79 @@
-# Code of Conduct  
-*We’re here to build software, not drama. Keep it cool.*  
+# Code of Conduct
 
----
+Lumen Research Group is a place for people to work on software, exchange ideas, and contribute without unnecessary hostility or disruption.
 
-## 🛡️ Our Pledge  
-We, as members and contributors of Lumen, pledge to foster an **open, inclusive, and harassment-free environment** for everyone. Whether you’re coding, debugging, or just lurking:  
-- **Be respectful**.  
-- **Be kind**.  
-- **Be constructive**.  
+Participation in our projects and community spaces requires basic respect for the people around you.
 
----
+## Expected behavior
 
-## 🚩 Scope  
-This Code of Conduct applies to **all community spaces**, including:  
-- GitHub repositories, issues, and discussions.  
-- Chat channels, forums, or social media tied to our projects.  
-- In-person or virtual events hosted by our group.  
+We expect contributors and community members to:
 
----
+- communicate respectfully and constructively;
+- disagree with ideas without attacking the people behind them;
+- be patient with different experience and skill levels;
+- give useful feedback where possible;
+- respect personal boundaries and privacy;
+- give appropriate credit for other people's work;
+- keep project spaces reasonably relevant to the project at hand.
 
-## ✅ Expected Behavior  
-- **Collaborate openly**: Share ideas, but listen more than you speak.  
-- **Respect differences**: Opinions, experiences, and skill levels vary.  
-- **Give credit**: Acknowledge contributions (code or otherwise).  
-- **Keep it SFW**: No NSFW content, politics, or off-topic spam.  
+Technical disagreement is normal. Personal hostility is not.
 
----
+## Unacceptable behavior
 
-## ❌ Unacceptable Behavior  
-- **Harassment**: Personal attacks, insults, or discriminatory jokes.  
-- **Trolling**: Deliberate disruption of discussions or workflows.  
-- **Gatekeeping**: “You’re not a real dev if…” nope. Stop.  
-- **Creeping**: DMs without consent, stalking, or doxxing.  
+The following are not acceptable in Lumen community spaces:
 
----
+- harassment, threats, intimidation, or personal attacks;
+- discriminatory or degrading comments;
+- deliberate trolling or repeated disruption of discussions;
+- unwanted sexual attention or inappropriate sexual content;
+- publishing someone's private information without permission;
+- stalking or persistent unwanted contact;
+- spam or repeated off-topic posting;
+- deliberately creating a hostile environment for other contributors.
 
-## ⚖️ Enforcement  
-Violations will be addressed by project maintainers. Actions may include:  
-1. **Warning**: A private message explaining the issue.  
-2. **Temp Ban**: Removal from discussions/issues for a set time.  
-3. **Permaban**: For severe or repeated violations.  
+Criticism of code, designs, decisions, and ideas is allowed. Attacking the person who made them is not.
 
-**Reporting**: Contact us via [GitHub Issues](https://github.com/lumen-rsg/.github/issues) or email `conduct@lumen.rsg` (not up yet). Reports are confidential.  
+## Scope
 
----
+This Code of Conduct applies to spaces operated by or directly associated with Lumen Research Group, including:
 
-## 🌱 Attribution  
-This Code of Conduct adapts the [Contributor Covenant 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
+- repositories, issues, pull requests, and discussions;
+- official chat rooms, forums, and other community channels;
+- project events and meetings;
+- other spaces where someone is formally representing Lumen Research Group.
 
+Private disputes outside these spaces are generally outside the scope of this document unless they directly affect participation in the project or present a serious safety concern.
+
+## Enforcement
+
+Project maintainers are responsible for interpreting and enforcing this Code of Conduct.
+
+Depending on the circumstances, maintainers may:
+
+1. ask someone to stop a particular behavior;
+2. issue a formal warning;
+3. temporarily restrict participation;
+4. remove content or close discussions;
+5. permanently remove someone from Lumen community spaces.
+
+The response will depend on the severity, context, and history of the behavior. Serious violations do not require a warning before stronger action is taken.
+
+Maintainers may also take action against obvious bad-faith use of the reporting process.
+
+## Reporting
+
+Problems can be reported through the [Lumen Research Group issue tracker](https://github.com/lumen-rsg/.github/issues).
+
+If a report involves sensitive information, avoid posting that information publicly. A private reporting method may be provided separately where available.
+
+Reports will be reviewed by project maintainers and handled with appropriate discretion.
+
+## Maintainer responsibility
+
+Maintainers are expected to apply this Code of Conduct reasonably and consistently.
+
+A maintainer should not handle a report concerning their own behavior when another maintainer is available to review it.
+
+## Attribution
+
+This Code of Conduct is partially based on the [Contributor Covenant, version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/), with modifications for Lumen Research Group.
