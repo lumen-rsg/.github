@@ -1,42 +1,49 @@
-# 🌊 Welcome to **Lumen Research Group**  
-*Bored programmers building software that "just works" — no bloat, no drama.*  
+# Lumen Research Group
 
----
+We are a small group of programmers building open-source software, mostly because we enjoy doing it.
 
-## 🧪 Who Are We?  
-We’re a small team of developers obsessed with **efficiency**, **elegance**, and open-source philosophy. Our mission: create tools and systems that feel *effortless* to use. Think of us as digital alchemists — turning caffeine and code into something magical.  
+Our projects tend to follow the same general idea: keep things simple, understandable, and useful. We prefer small systems with clear behavior over large abstractions, unnecessary dependencies, and features nobody asked for.
 
-**Flagship Project**: [**lumina**](https://github.com/lumen-rsg/limuna) — A Linux-based OS
+## Projects
 
----
+### lumina
 
+[lumina](https://github.com/lumen-rsg/lumina) is our main project — a Linux-based operating system and the place where most of our work currently happens.
 
-## ⚙️ How We Work  
-- **Open Source First**: Everything we build is public, hackable, and community-driven.  
-- **Boredom-Driven Development**: If it’s not fun to code, we’re not doing it.  
-- **Minimalism Over Everything**: Less code = fewer bugs. Fight us.  
+Other projects can be found under the [Lumen Research Group](https://github.com/lumen-rsg) organization.
 
-## 🛠️ Want to Contribute?  
-Check out our [**Contribution Guidelines**](https://github.com/lumen-rsg/.github/blob/main/CONTRIBUTING.md) for rules and workflows.  
+## Development
 
-1. **Fork** a repo.  
-2. **Code** something awesome.  
-3. **Submit a PR**.  
-4. **Profit?** (Just kidding — we’re non-profit.)  
+There is no complicated philosophy behind how we work.
 
----
+We generally try to:
 
-## 📜 Code of Conduct  
-We enforce a [**Code of Conduct**](https://github.com/FontaineRSG/.github/blob/main/CODE_OF_CONDUCT.md) to keep our community respectful and inclusive.
+- keep projects open source;
+- avoid unnecessary complexity;
+- write software that is easy to understand and maintain;
+- prefer practical solutions over clever ones;
+- build things we would actually want to use ourselves.
 
----
+Not every project is serious, finished, or particularly sensible. That's part of the point.
 
-## 📬 Contact  
-- **Issues**: File them in the relevant repository.  
-- **Discussions**: Chat with us in [lumina Discussions](https://github.com/lumen-rsg/lumina/discussions).  
-- **Telegram Pigeon**: `pigeon@lumen.rsg` *(Out of service — pigeons hate Markdown.)*  
+## Contributing
 
----
+Contributions are welcome.
 
-## 🔮 Powered By  
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)    |☕ Coffee | 🫖 Tea | 😱 Existential Dread  
+If you want to work on something, take a look at the repository's open issues or submit a pull request. General contribution information is available in our [Contribution Guidelines](https://github.com/lumen-rsg/.github/blob/main/CONTRIBUTING.md).
+
+If you're unsure whether an idea fits a project, opening an issue first is usually the easiest way to find out.
+
+## Code of Conduct
+
+Please read our [Code of Conduct](https://github.com/lumen-rsg/.github/blob/main/CODE_OF_CONDUCT.md) before participating in Lumen projects.
+
+The short version: be reasonable and don't make working together unpleasant.
+
+## Contact
+
+For bugs and project-specific questions, open an issue in the relevant repository.
+
+For broader discussion around lumina, use [GitHub Discussions](https://github.com/lumen-rsg/lumina/discussions).
+
+That's about it.
